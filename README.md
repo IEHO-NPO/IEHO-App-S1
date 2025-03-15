@@ -1,7 +1,7 @@
 # IEHO Application development S1
 
 Welcome to Stage 1, basic planning of features and UI. </br>
-*Note that this repo is used for internal and external update logging, however, project is close sourced.</br>
+* Note that this repo is used for internal and external update logging, however, project is close sourced.</br>
 
 ## Progress update
 
