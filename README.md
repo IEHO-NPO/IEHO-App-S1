@@ -11,6 +11,7 @@ Welcome to Stage 1, basic planning of features and UI. </br>
     * An idea of having a country restriction of North America is proposed in the initial release of the app
     * Starting the design of basic UI
     * A plan to aquire API access or aquire PickyEats
+    * Necessary r/w access of this repo is granted to colleagues
 * March 11, 2025, Tue
     * Idea being proposed
     * An application incorporating "小红书, PickyEats，园周旅迹 and AI features"
